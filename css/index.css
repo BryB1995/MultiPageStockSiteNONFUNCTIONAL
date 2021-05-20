@@ -1,0 +1,235 @@
+h1{
+    background-color: #3CAEA3;
+    padding: 10px;
+    margin: 0px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+    margin-bottom: 20px;
+}
+
+.links{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+    border: solid;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: none;
+}
+
+h2:first-child{
+    border-radius: 10px 10px 0px 0px;
+}
+
+h2:last-child{
+    border-radius: 0px 0px 10px 10px;
+    border-bottom: solid;
+}
+
+a{
+    text-decoration: none;
+    color: #C51162;
+}
+
+a:hover{
+    color: #B00020;
+    font-style: italic;
+}
+
+body{
+    background-color: #173F5F;
+}
+
+#formBox{
+    background-color: white;
+    padding: 10px;
+    border-radius: 0px 0px 10px 10px;
+    padding-bottom: 2px;
+    padding-top: 5px;
+}
+
+#login label{
+    display: block;
+}
+
+#login input{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 10px ;
+    border-radius: 5px;
+}
+
+#mod input{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 5px;
+    padding: 10px 10px 10px 10px ;
+    border-radius: 5px;
+}
+
+#new label{
+    display: block;
+}
+
+#new input{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px 10px 10px 10px ;
+    border-radius: 5px;
+}
+
+form{
+    text-align: center;
+}
+
+button{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  color: #C51162;
+  width: 150px;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+#links a{
+    padding-left: 20px;
+    padding-right:20px;
+    border-radius: 4px;
+    margin-left: 40px;
+    margin-right:40px;
+    margin: 10px;
+    
+}
+
+.menu{
+    background-color: white;
+    border-radius: 10px 10px 0px 0px;
+    padding: 10px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 4px;
+}
+
+#login{
+    display: none;
+}
+
+#new{
+    display: none;
+}
+
+footer{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: white;
+}
+
+#footy{
+    text-decoration: bold;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+#logo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#comlogo{
+    width: 250px;
+}
+
+#compinfo{
+    background-color: white;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+}
+
+#compinfo div{
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+#change{
+    display: none;
+}
+
+#favlist{
+    background-color: white;
+    border-radius: 5px;
+    padding-bottom: 60px;
+}
+
+#icon{
+    width: 175px;
+}
+
+#me{
+    display: inline;
+    margin-right: 5px;
+}
+
+#fav{
+    padding: 10px;
+}
+
+#pic{
+    display: inline-block;
+    margin-right: 25px;
+}
+
+#favlist button{
+    width: 90px;
+    padding: 9px;
+    float: right;
+}
+
+#none{
+    text-align: center;
+}
+
+#fav:first-child{
+    display: none;
+}
+
+#opt{
+    text-align:center;
+    margin: auto;
+}
+
+#formInfo{
+    border-radius: 4px;
+    padding: 10px;
+}
+
+#portfolio{
+    background-color: white;
+    border-radius: 4px;
+    padding: 10px;
+}
